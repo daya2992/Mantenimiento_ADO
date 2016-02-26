@@ -1,0 +1,20 @@
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\RegistroAnime.exe.config
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\RegistroAnime.exe
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\RegistroAnime.pdb
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\RegistroAnime.xml
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\EntityFramework.dll
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\EntityFramework.xml
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\obj\Debug\RegistroAnime.vbprojResolveAssemblyReference.cache
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\obj\Debug\RegistroAnime.Form1.resources
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\obj\Debug\RegistroAnime.Resources.resources
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\obj\Debug\RegistroAnime.vbproj.GenerateResource.Cache
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\obj\Debug\RegistroAnime.exe
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\obj\Debug\RegistroAnime.xml
+c:\users\daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\obj\Debug\RegistroAnime.pdb
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\WindowsApplication1.exe
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\WindowsApplication1.pdb
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\RegistroAnime\bin\Debug\WindowsApplication1.xml
+D:\Documentos Dayanne\Github_VB\Mantenimiento_ADO\RegistroAnime\bin\Debug\RegistroAnime.exe.config
+D:\Documentos Dayanne\Github_VB\Mantenimiento_ADO\RegistroAnime\obj\Debug\RegistroAnime.exe
+D:\Documentos Dayanne\Github_VB\Mantenimiento_ADO\RegistroAnime\obj\Debug\RegistroAnime.xml
+D:\Documentos Dayanne\Github_VB\Mantenimiento_ADO\RegistroAnime\obj\Debug\RegistroAnime.pdb

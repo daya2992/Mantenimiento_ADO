@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AnimeModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AnimeEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="RegistroAnime" EntityType="AnimeModel.RegistroAnime" />
+    <FunctionImport Name="SP_ULTIMOCODIGO" ReturnType="Collection(String)" />
+  </EntityContainer>
+  <EntityType Name="RegistroAnime">
+    <Key>
+      <PropertyRef Name="CodAnime" />
+    </Key>
+    <Property Name="CodAnime" Type="String" Nullable="false" MaxLength="3" Unicode="false" FixedLength="false" />
+    <Property Name="NomAnime" Type="String" MaxLength="45" Unicode="false" FixedLength="false" />
+    <Property Name="Temporadas" Type="String" MaxLength="3" Unicode="false" FixedLength="false" />
+    <Property Name="Descargar" Type="String" MaxLength="3" Unicode="false" FixedLength="true" />
+    <Property Name="Visto" Type="String" MaxLength="3" Unicode="false" FixedLength="true" />
+    <Property Type="Binary" Name="foto" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+</Schema>

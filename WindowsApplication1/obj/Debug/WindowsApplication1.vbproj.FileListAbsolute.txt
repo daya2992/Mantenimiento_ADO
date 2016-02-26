@@ -1,0 +1,12 @@
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\WindowsApplication1\obj\Debug\WindowsApplication1.FormReporte.resources

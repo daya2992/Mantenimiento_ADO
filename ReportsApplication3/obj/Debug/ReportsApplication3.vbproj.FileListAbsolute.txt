@@ -1,0 +1,13 @@
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\bin\Debug\ReportsApplication3.exe.config
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\bin\Debug\ReportsApplication3.exe
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\bin\Debug\ReportsApplication3.pdb
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\bin\Debug\ReportsApplication3.xml
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\ReportsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\ReportsApplication3.Form1.resources
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\ReportsApplication3.Resources.resources
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\ReportsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\RdlCompile.cache
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\RdlCompile.compiled
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\ReportsApplication3.exe
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\ReportsApplication3.xml
+C:\Users\Daya\documents\visual studio 2012\Projects\RegistroAnime\ReportsApplication3\obj\Debug\ReportsApplication3.pdb
